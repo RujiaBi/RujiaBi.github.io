@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S., Ecology and Environmental Sciences, Ocean University of China, 2012
-* M.S., Marine Biology, Texas A&M University at Galveston, 2016
 * Ph.D, Fisheries and Wildlife Sciences, Virginia Tech, 2020
+* M.S., Marine Biology, Texas A&M University at Galveston, 2016
+* B.S., Ecology and Environmental Sciences, Ocean University of China, 2012
 
 Publications
 ======
@@ -21,6 +21,13 @@ Publications
 * Li M, Jiao Y, Bi R, Ren Y*. 2020. Population status and distribution of whitespotted conger (Conger myriaster) in Yellow Sea: an important migratory species along coastal China with limited data. Fisheries Oceanography, 29(1): 32–45. doi:10.1111/fog.12444.
 * Bi R*, Jiao Y, Zhou C, Hallerman E. 2019. A Bayesian spatiotemporal approach to inform management unit appropriateness. Canadian Journal of Fisheries and Aquatic Sciences, 76(2): 217–237. doi:10.1139/cjfas-2017-0526.
 * Bi R*, Liu H. 2017. Effects of variability among individuals on zooplankton population dynamics under environmental conditions. Marine Ecology Progress Series. 564: 9–28. doi:10.3354/meps11967.
+
+Technical Reports
+======
+* Bi R, Hata D, Hallerman E. 2020. Results of the 2019 Horseshoe Crab Trawl Survey: Report to the Atlantic States Marine Fisheries Commission Horseshoe Crab and Delaware Bay Ecology Technical Committees. 28 pp.
+* Bi R, Jiao Y. 2020. Predicted seabird bycatch in the U.S. Atlantic pelagic longline fishery during 1992-2019 based on observer and logbook data: Report to NOAA National Marine Fisheries Service Southeast Fisheries Science Center. 42 pp.
+* Bi R, Jiao Y. 2019. Predicted seabird bycatch in the U.S. Atlantic pelagic longline fishery during 1992-2018 based on observer and logbook data: Report to NOAA National Marine Fisheries Service Southeast Fisheries Science Center. 40 pp.
+* Zhou C, Bi R, Jiao Y. 2018. Predicted seabird bycatch in the U.S. Atlantic pelagic longline fishery during 1992-2017 based on observer and logbook data: Report to NOAA National Marine Fisheries Service Southeast Fisheries Science Center. 38 pp.
   
 Conference Presentations
 ======
