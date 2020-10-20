@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: 'Research'
-permalink: /research/
+title:
+permalink: /resech/
 author_profile: true
 redirect_from:
   - /research
@@ -11,8 +11,7 @@ redirect_from:
 
 Spatiotemporal dynamic of fish populations
 ======
-This project focuses on identifying environmental and anthropogenic factors influencing the spatiotemporal dynamics of fish population, exploring spatiotemporal heterogeneity in fish population dynamics, and developing stock assessment model by including the estimated spatiotemporal heterogeneity and diagnosing the need to incorporate spatiotemporal heterogeneity in population dynamics.
-My example species include yellow perch in Lake Erie and Alosa species in selected tributaries of the Chesapeake Bay.
+This project focuses on identifying environmental and anthropogenic factors influencing the spatiotemporal dynamics of fish population, exploring spatiotemporal heterogeneity in fish population dynamics, and developing stock assessment model by including the estimated spatiotemporal heterogeneity and diagnosing the need to incorporate spatiotemporal heterogeneity in population dynamics. Example species include yellow perch in Lake Erie and Alosa species in selected tributaries of the Chesapeake Bay.
 
 Seabir bycatch in the U.S. pelagic longline fishery
 ======
