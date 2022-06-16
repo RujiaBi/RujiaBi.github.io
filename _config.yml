@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rujia Bi"
 title_separator          : "-"
-name                     : &name "Dr. Rujia Bi"
+name                     : &name "Rjia Bi"
 description              : &description "personal description"
 url                      : https://rujiabi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Rujia Bi"
+  name             : "Rujia Bi, PhD"
   avatar           : "RBI.jpeg"
   bio              : "Fisheries Management, Stock Assessment, Population Modeling, Marine Ecology"
   location         : "Location"
