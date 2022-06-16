@@ -15,7 +15,7 @@ Education
 * M.S., Marine Biology, Texas A&M University at Galveston, 2016
 * B.S., Ecology and Environmental Sciences, Ocean University of China, 2012
 
-Publications
+Peer-reviewed publications
 ======
 * Bi R*, Jiao Y, Browder JA. 2021. Climate driven spatiotemporal variations in seabird bycatch hotspots and implications for seabird bycatch mitigation. Scientific Reports, 11: 20704. doi:10.1038/s41598-021-00078-z.
 * Bi R*, Jiao Y, Weaver LA, Greenlee B, McClair G, Kipp J, Wilke K, Haas C, Smith E. 2021. Environmental and anthropogenic influence on spatiotemporal dynamics of Alosa in Chesapeake Bay tributaries. Ecosphere, 12(6): e03544. doi:10.1002/ecs2.3544.
