@@ -17,6 +17,9 @@ Education
 
 Publications
 ======
+* Bi R*, Jiao Y, Browder JA. 2021. Climate driven spatiotemporal variations in seabird bycatch hotspots and implications for seabird bycatch mitigation. Scientific Reports, 11: 20704. doi:10.1038/s41598-021-00078-z.
+* Bi R*, Jiao Y, Weaver LA, Greenlee B, McClair G, Kipp J, Wilke K, Haas C, Smith E. 2021. Environmental and anthropogenic influence on spatiotemporal dynamics of Alosa in Chesapeake Bay tributaries. Ecosphere, 12(6): e03544. doi:10.1002/ecs2.3544.
+* Bi R*, Zhou C, Jiao Y. 2020. Detection of fish movement patterns across management unit boundaries using age-structured Bayesian hierarchical models with tag-recovery data. PLoS ONE, 15(12): e0243423. doi:10.1371/journal.pone.0243423.
 * Bi R*, Jiao Y, Bakka H, Browder J. 2020. Long-term climate ocean oscillations inform seabird bycatch from pelagic longline fishery. ICES Journal of Marine Science, 77(2), 668–679. doi:10.1093/icesjms/fsz255.
 * Li M, Jiao Y, Bi R, Ren Y*. 2020. Population status and distribution of whitespotted conger (Conger myriaster) in Yellow Sea: an important migratory species along coastal China with limited data. Fisheries Oceanography, 29(1): 32–45. doi:10.1111/fog.12444.
 * Bi R*, Jiao Y, Zhou C, Hallerman E. 2019. A Bayesian spatiotemporal approach to inform management unit appropriateness. Canadian Journal of Fisheries and Aquatic Sciences, 76(2): 217–237. doi:10.1139/cjfas-2017-0526.
@@ -24,6 +27,7 @@ Publications
 
 Technical Reports
 ======
+* Bi R, Jiao Y. 2021. Predicted seabird bycatch in the U.S. Atlantic pelagic longline fishery during 1992-2020 based on observer and logbook data: Report to NOAA National Marine Fisheries Service Southeast Fisheries Science Center. 42 pp.
 * Bi R, Hata D, Hallerman E. 2020. Results of the 2019 Horseshoe Crab Trawl Survey: Report to the Atlantic States Marine Fisheries Commission Horseshoe Crab and Delaware Bay Ecology Technical Committees. 28 pp.
 * Bi R, Jiao Y. 2020. Predicted seabird bycatch in the U.S. Atlantic pelagic longline fishery during 1992-2019 based on observer and logbook data: Report to NOAA National Marine Fisheries Service Southeast Fisheries Science Center. 42 pp.
 * Bi R, Jiao Y. 2019. Predicted seabird bycatch in the U.S. Atlantic pelagic longline fishery during 1992-2018 based on observer and logbook data: Report to NOAA National Marine Fisheries Service Southeast Fisheries Science Center. 40 pp.
@@ -31,6 +35,8 @@ Technical Reports
   
 Conference Presentations
 ======
+* Bi R. Bayesian hierarchical approaches to analyze spatiotemporal dynamics of fish populations. Oral presentation in the CFL seminar, Nov. 3, 2021, Center for Limnology, University of Wisconsin-Madison, Madison, WI.
+* Jensen O, Bi R. Early identification of climate-vulnerable stock assessments. Oral presentation in the Lenfest Ocean Program Webinar “New Research to Identify Climate-vulnerable Stock Assessments”, Jan. 29, 2021.
 * Bi R, Jiao Y, Bakka H, Browder J. Long-term climate ocean oscillations inform seabird bycatch from pelagic longline fishery. Oral presentation at the 2019 American Fisheries Society and The Wildlife Society Joint Annual Conference, Sep. 29–Oct.4, 2019, Reno, NV.
 * Bi R, Jiao Y, Zhou C, Hallerman E. Can spatiotemporal heterogeneity of fish distribution inform definition of management units? Poster presentation at the 2019 American Fisheries Society and The Wildlife Society Joint Annual Conference, Sep. 29–Oct.4, 2019, Reno, NV.
 * Bi R, Jiao Y, Weaver A, Greenlee B, McClair G, Kipp J, Haas C, Smith E. Bayesian hierarchical modeling of environmental and anthropogenic influence on spatiotemporal dynamics of Alosa species in selected tributaries of the Chesapeake Bay. Oral presentation at the 2018 Alosa Data Workshop of Atlantic States Marine Fisheries Commission, Nov. 5–8, 2018, Providence, RI.
@@ -68,8 +74,11 @@ Grants and Fellowships
   
 Professional Activities
 ======
-* Reviewer of Journal of Ocean University of China, 2017
-* Reviewer of Annual Student Research Symposium, Texas A&M University at Galveston, 2014–2015
+* Peer reviewer, Journal of Biogeography, 2022
+* Peer reviewer, PLoS One, 2021
+* Peer reviewer, Transactions of the American Fisheries Society, 2020
+* Peer reviewer, Journal of Ocean University of China, 2017
+* Peer reviewer, Annual Student Research Symposium, Texas A&M University at Galveston, 2014–2015
 
 Outreach Activities
 ======
