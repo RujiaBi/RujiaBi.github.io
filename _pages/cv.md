@@ -27,6 +27,7 @@ Peer-Reviewed Publications
 
 Technical Reports
 ======
+* Bi R, Jiao Y. 2022. Predicted seabird bycatch in the U.S. Atlantic pelagic longline fishery during 1992-2021 based on observer and logbook data: Report to NOAA National Marine Fisheries Service Southeast Fisheries Science Center. 42 pp.
 * Bi R, Jiao Y. 2021. Predicted seabird bycatch in the U.S. Atlantic pelagic longline fishery during 1992-2020 based on observer and logbook data: Report to NOAA National Marine Fisheries Service Southeast Fisheries Science Center. 42 pp.
 * Bi R, Hata D, Hallerman E. 2020. Results of the 2019 Horseshoe Crab Trawl Survey: Report to the Atlantic States Marine Fisheries Commission Horseshoe Crab and Delaware Bay Ecology Technical Committees. 28 pp.
 * Bi R, Jiao Y. 2020. Predicted seabird bycatch in the U.S. Atlantic pelagic longline fishery during 1992-2019 based on observer and logbook data: Report to NOAA National Marine Fisheries Service Southeast Fisheries Science Center. 42 pp.
@@ -35,6 +36,8 @@ Technical Reports
   
 Conference Presentations
 ======
+* Bi R, Mann R, Mills K, Saba V, Wiedenmann J, Jensen OP. Empirical estimates of inter-assessment uncertainty for marine fish and invertebrate stocks. Oral presentation in the 2022 American Fisheries Society Annual Conference, Aug. 21-25, Spokane, WA
+* Bi R. Identify climate-vulnerable stock assessments. Oral presentation in Chen’s lab., Apr. 14, 2022, School of Marine and Atmospheric Sciences, Stony Brook University, Stony Brook, NY
 * Bi R. Bayesian hierarchical approaches to analyze spatiotemporal dynamics of fish populations. Oral presentation in the CFL seminar, Nov. 3, 2021, Center for Limnology, University of Wisconsin-Madison, Madison, WI.
 * Jensen O, Bi R. Early identification of climate-vulnerable stock assessments. Oral presentation in the Lenfest Ocean Program Webinar “New Research to Identify Climate-vulnerable Stock Assessments”, Jan. 29, 2021.
 * Bi R, Jiao Y, Bakka H, Browder J. Long-term climate ocean oscillations inform seabird bycatch from pelagic longline fishery. Oral presentation at the 2019 American Fisheries Society and The Wildlife Society Joint Annual Conference, Sep. 29–Oct.4, 2019, Reno, NV.
@@ -74,15 +77,13 @@ Grants and Fellowships
   
 Professional Activities
 ======
-* Peer reviewer, Journal of Biogeography, 2022
-* Peer reviewer, PLoS One, 2021
-* Peer reviewer, Transactions of the American Fisheries Society, 2020
-* Peer reviewer, Journal of Ocean University of China, 2017
+* Assistant Editor, Canadian Journal of Fisheries and Aquatic Sciences, 2022-present                  
+* Peer reviewer, Fisheries Management and Ecology, Journal of Biogeography, PLoS One, Transactions of the American Fisheries Society, Journal of Ocean University of China, 2017-present                                                               
 * Peer reviewer, Annual Student Research Symposium, Texas A&M University at Galveston, 2014–2015
 
 Outreach Activities
 ======
-* Workshop on Alosa population dynamics, Atlantic States Marine Fisheries Commission, 2018
+* Workshop on Alosa population dynamics, Atlantic States Marine Fisheries Commission, 2018-present
 * Outreach activity of interacting with fishermen and managers, Patuxent Environmental & Aquatic Research Laboratory, Morgan State University, 2016
 
 Social Activities
